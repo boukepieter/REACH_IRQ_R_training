@@ -18,3 +18,8 @@ Mapping Excercise:
 KoBo Excercise:
 - Kobo_tools_excercise.R contains the coding solution
 - excercise_data contains the input data
+
+
+### Resources
+- R for data science: https://r4ds.had.co.nz/
+- user_training_slides.html contains the presentation in the morning
