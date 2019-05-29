@@ -2,3 +2,5 @@
 Scripts and files used during R training at 29-05-2019
 
 IMPACT Tools: http://www.rpubs.com/impact_dataunit/impactpackages
+
+User Training: https://rpubs.com/impact_dataunit/impact_usertraining 
